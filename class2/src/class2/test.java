@@ -8,6 +8,8 @@ public class test {
 	 System.out.println("3rd Grade");
 	 System.out.println("4th Grade");
 	 System.out.println("20160847");
+	 System.out.println("Im Jun Hyuk");
+
 	 
 	 
  }
